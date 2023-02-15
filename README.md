@@ -163,6 +163,6 @@ These are the actions taken:
 #### Disclaimer
 
 This project was of a small dataset but highlights the basics of data cleaning using SQL and Excel. 
-Following the steps highlighted in this document guarantee you to get similar results as mine.
+Following the steps followed in this document guarantees you to get similar results as mine.
 However, some steps like use of ChatGPT to clean the data might not be ideal for a large dataset.
 
